@@ -1,0 +1,311 @@
+.name{
+  font-family: 'Sacramento', cursive;
+  font-size: 5em;
+  text-align: center;
+  color: white;
+}
+.hello{
+  font-family: sans-serif;
+}
+.discription{
+  text-align: center;
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.toppage{
+  background-color:black;
+  padding: 40px;
+}
+.middlepage{
+
+ margin-left: auto;
+ margin-right: auto;
+}
+.amanimage{
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 80px auto 50px auto;
+  border-radius: 50%
+}
+.amandes{
+ text-align: center;
+ margin-left: 450px;
+ margin-right: 450px;
+ font-family: 'Noto Sans', sans-serif;
+
+
+}
+.hello{
+  color: black;
+  text-align: center;
+
+}
+.thirdpage{
+  margin-top: 80px;
+  background-color: black;
+}
+.ach{
+  color: white;
+  padding-top: 40px;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+
+
+h2
+{
+  color: white;
+
+}
+
+.thirdpage{
+position: relative;
+padding-bottom: 50px;
+
+
+}
+.a{
+  margin-top: 120px;
+  position: relative;
+  /* margin-top: 0;
+  margin-bottom: 0;*/
+  margin-left: 400px;
+  margin-right: 400px;
+}
+/* .a{
+
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 400px;
+  margin-right: 400px;
+} */
+.imgtwo{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  float: left;
+}
+.htwo{
+  font-family: sans-serif;
+  text-align: right;
+
+  color: white;
+}
+.ptwo{
+  font-family: sans-serif;
+  color: white;
+  text-align: right;
+}
+.b{
+  margin-top: 90px;
+  position: relative;
+  /* margin-top: 0;
+  margin-bottom: 0;*/
+  margin-left: 400px;
+  margin-right: 400px;
+}
+.imgthree{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  float:right ;
+}
+.hthree{
+  color: white;
+    font-family: sans-serif;
+}
+.pthree{
+  color: white;
+    font-family: sans-serif;
+}
+.c{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 90px;
+  position: relative;
+}
+.imgfour{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  float:left ;
+}
+.hfour{
+  color: white;
+    text-align: right;
+      font-family: sans-serif;
+}
+.pfour{
+  color: white;
+    text-align: right;
+      font-family: sans-serif;
+}
+.d{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 90px;
+  position: relative;
+}
+.imgfive{
+  width: 100px;
+  border-radius: 50%;
+  height: 100px;
+  float:right ;
+}
+.hfive{
+  color: white;
+    font-family: sans-serif;
+
+}
+.pfive{
+    font-family: sans-serif;
+  color: white;
+
+}
+.e{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 90px;
+  position: relative;
+}
+.imgsix{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  float:left ;
+}
+.hsix{
+  color: white;
+    text-align: right;
+      font-family: sans-serif;
+}
+.psix{
+  color: white;
+    text-align: right;
+      font-family: sans-serif;
+}
+.f{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 90px;
+  position: relative;
+}
+.imgsev{
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  float:right ;
+}
+.hsev{
+  color: white;
+    font-family: sans-serif;
+
+}
+.psev{
+  color: white;
+    font-family: sans-serif;
+
+}
+.g{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 90px;
+  position: relative;
+}
+.imge{
+  width: 100px;
+  border-radius: 50%;
+  height: 100px;
+  float:left ;
+}
+.he{
+  color: white;
+    text-align: right;
+      font-family: sans-serif;
+}
+.pe{
+  color: white;
+    font-family: sans-serif;
+    text-align: right;
+}
+.h{
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 90px;
+  position: relative;
+}
+.imgn{
+  width: 100px;
+  border-radius: 50%;
+  height: 100px;
+  float:right ;
+}
+.hn{
+  color: white;
+    font-family: sans-serif;
+
+}
+.pn{
+  color: white;
+    font-family: sans-serif;
+
+}
+.fourthpage{
+margin-top: 80px;
+
+margin-bottom: 100px;
+}
+
+.getin{
+font-size: 2.5em;
+margin-bottom: 100px;
+  text-align: center;
+  font-family: sans-serif;
+}
+.butn {
+  text-align: center;
+
+margin-left: 580px;
+margin-right: 580px;
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #000000);
+  background-image: -moz-linear-gradient(top, #000000, #000000);
+  background-image: -ms-linear-gradient(top, #000000, #000000);
+  background-image: -o-linear-gradient(top, #000000, #000000);
+  background-image: linear-gradient(to bottom, #000000, #000000);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.lastpage{
+  background-color: black;
+  padding-top: 30px;
+  text-align: center;
+  padding-bottom: 10px;
+}
+.butn:hover {
+  background: #c8d2d9;
+  text-decoration: none;
+}
+.footer-link{
+  margin-top: 20px;
+  text-align: center;
+ color: grey;
+  font-family: sans-serif;
+
+}
+.footer-link:hover{
+  color: white;
+
+}
+.copyright{
+  color: white;
+  font-family: sans-serif;
+}
